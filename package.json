@@ -1,0 +1,23 @@
+{
+  "name": "profile",
+  "version": "1.0.0",
+  "description": "- [Twitter](https://twitter.com/xXyangXx_)\r - [Github](https://gitub.com/zytha)\r - [Discord](https://discord.com/invite/mMDaA2FmH2)\r - [Instagram](https://www.instagram.com/zytha28/)\r - [Youtube](https://www.youtube.com/xXyangXx_)",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tailwindcss -i ./input.css -o ./output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zytha/profile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zytha/profile/issues"
+  },
+  "homepage": "https://github.com/Zytha/profile#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.11"
+  }
+}
